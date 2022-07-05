@@ -3,4 +3,45 @@
     margin:0 auto;
     padding:0;
     box-sizing:border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: rgb(245, 245, 249);
+}
+
+/*header*/
+header{
+    background-color: white;
+}
+
+header div{
+    margin-left: 0;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+}
+
+header img{
+    padding: 3%;
+    width: 70px;
+}
+
+header span{
+    font-weight: bolder;
+    font-size: 40px;
+    position: absolute;
+    padding-top: 3%;
+}
+/*/header/
+
+/*main*/
+main{
+    width: 900px;
+    height: 650px;
+    margin-top:50px;
+    margin-bottom: 20px;
+    padding:0;
+    box-sizing:border-box;
+    background-color: white;
 }

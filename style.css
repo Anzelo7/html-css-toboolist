@@ -45,3 +45,32 @@ main{
     box-sizing:border-box;
     background-color: white;
 }
+
+/*button*/
+input{
+    padding: 1%;
+    margin-top: 2%;
+}
+
+.button :first-child{
+    margin-left: 80px;
+    border-radius: 7px;
+    color: white;
+    border-color: rgb(0, 162, 255);
+    background-color: rgb(0, 162, 255);
+}
+
+.button :last-child{
+    border-radius: 7px;
+    color: lightgray;
+    background-color: white;
+    border-color:lightgray;
+}
+
+hr{
+    margin-top: 1%;
+    height: 2px;
+    background-color:rgb(245, 245, 249);
+    border: none;
+}
+/*/button*/

@@ -86,6 +86,10 @@ hr{
     padding:1%;
 }
 
+h1 ::before{
+    content: '\25BC';
+}
+
 p{
     font-size: 21px;
     margin-top: 20px;

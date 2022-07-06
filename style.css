@@ -92,12 +92,21 @@ p{
     margin-bottom: 20px;
 }
 
+.blu{
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+    padding:1%;
+    border-radius: 21px;
+}
+
 .edit{
     font-weight: bold;
     color: white;
     font-size: 12px;
     padding:1%;
     border-radius: 21px;
+    background-color: rgb(0, 162, 255);
 }
 
 .check{
